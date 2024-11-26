@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EliMe5
+- 👀 I’m interested in ways to visualise complex physical phenomena using intuitive figures and animations
+- 🌱 I’m currently learning theoretical physics
