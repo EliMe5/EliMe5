@@ -1,13 +1,12 @@
 # Eliott Menard
 
-M2 Physics student at Université Paris-Saclay, specialising in condensed matter
-and quantum physics.
+M2 QLMN (Condensed Matter & Interfaces) student at Université Paris-Saclay.
 
 Interested in computational approaches to quantum many-body physics, statistical
 physics, and scientific machine learning.
 
-Previously a research intern at IJCLab & CERN, working on transformer-based
-particle reconstruction and contributing to ACTS and GUNTAM.
+Research intern at IJCLab & CERN (2026), working on transformer-based particle
+reconstruction and contributing to ACTS and GUNTAM.
 
 ## Selected open-source contributions
 
